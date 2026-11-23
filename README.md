@@ -24,3 +24,6 @@ Files: `index.html`, `questions.js`, `app.js`, `lessons.js`, `lesson-app.js`, `m
 The 14-question bank is an **adapted practice bank**, not a complete transcription of the exam. Lesson material beyond the photographed Test #2 is illustrative and should be compared with later lecture uploads. No lecture PowerPoints or textbook chapters have yet been incorporated. Browser localStorage progress remains under the original `bme3053-v1` key; do not click Reset Progress if you wish to keep it. Voice narration uses device/browser voices, not downloadable prerecorded MP4 audio.
 
 The repository is public. Avoid publishing exam photos containing student names or IDs.
+
+## V4 Smart Coding Coach
+Five guided MATLAB-like coding challenges with multiple input/output checks, hints, model answers, and local progress. The practice interpreter is not MATLAB. Full MATLAB syntax requires MATLAB or Octave.
